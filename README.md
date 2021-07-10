@@ -10,7 +10,7 @@
 
 ### 𝚆𝚎𝚋 :globe_with_meridians:
 
-![WordPress](https://img.shields.io/badge/-wordpress-181717?logo=wordpress&style=for-the-badge&logoColor=white&color=0173A9)
+[![WordPress](https://img.shields.io/badge/-wordpress-181717?logo=wordpress&style=for-the-badge&logoColor=white&color=0173A9)](https://profiles.wordpress.org/vishalkakadiya/)
 ![Gutenberg](https://img.shields.io/badge/-gutenberg-181717?logo=gutenberg&style=for-the-badge&logoColor=white&color=black)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&style=for-the-badge&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&style=for-the-badge&logoColor=black)
