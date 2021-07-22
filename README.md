@@ -30,5 +30,5 @@
 ![PHPStorm](https://img.shields.io/badge/-phptstorm-181717?logo=phpstorm&style=for-the-badge&logoColor=white&color=9051f5)
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=vishalkakadiya.vishalkakadiya" alt="Vishal Kakadiya profile visitors"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=vishalkakadiya.vishalkakadiya" alt="Vishal Kakadiya profile visitor"/>
 </p>
