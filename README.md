@@ -28,7 +28,3 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=white)
 ![Github](https://img.shields.io/badge/-Github-181717?logo=Github&style=for-the-badge&logoColor=white)
 ![PHPStorm](https://img.shields.io/badge/-phptstorm-181717?logo=phpstorm&style=for-the-badge&logoColor=white&color=9051f5)
-
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=vishalkakadiya.vishalkakadiya" alt="Vishal Kakadiya profile visitor"/>
-</p>
