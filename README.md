@@ -3,8 +3,6 @@
 ## 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎 ![Hi there](https://usefulshortcuts.com/imgs/yahoo-smileys/103.gif).. 𝚃𝚑𝚒𝚜 𝚒𝚜 Vishal Kakadiya <img src="http://www.emoticonr.com/design/yahoo/not-worthy.gif" height="25px"/>
 
 
-<img src="https://usefulshortcuts.com/imgs/yahoo-smileys/4.gif" height="25" align="right">
-
 ![hehe](https://forthebadge.com/images/badges/powered-by-electricity.svg)
 ![❤️](https://forthebadge.com/images/badges/built-with-love.svg)
 
