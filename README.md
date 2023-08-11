@@ -3,9 +3,6 @@
 ## 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎 ![Hi there](https://usefulshortcuts.com/imgs/yahoo-smileys/103.gif).. 𝚃𝚑𝚒𝚜 𝚒𝚜 Vishal Kakadiya <img src="http://www.emoticonr.com/design/yahoo/not-worthy.gif" height="25px"/>
 
 
-![hehe](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQFoL-OAsn1LZubCRgnRgTFSG44yn6DY8ckGZRLNGz&s)
-![❤️](https://forthebadge.com/images/badges/built-with-love.svg)
-
 ### 𝚆𝚎𝚋 :globe_with_meridians:
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&style=for-the-badge&logoColor=white)
