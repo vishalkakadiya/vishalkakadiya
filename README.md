@@ -2,6 +2,9 @@
 
 ## 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎 ![Hi there](https://usefulshortcuts.com/imgs/yahoo-smileys/103.gif).. 𝚃𝚑𝚒𝚜 𝚒𝚜 Vishal Kakadiya <img src="http://www.emoticonr.com/design/yahoo/not-worthy.gif" height="25px"/>
 
+### AI:
+
+![AI|Automation](https://img.shields.io/badge/AI-Automation-blue)
 
 ### 𝚆𝚎𝚋 :globe_with_meridians:
 
